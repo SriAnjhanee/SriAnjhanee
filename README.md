@@ -15,11 +15,11 @@
 
 ### 🙋‍♂️ About Me
 <!--Line-->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-<img align="right" alt="coding" width="400"  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+<img align="right" alt="coding" width="400" height="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
-I’m an Electrical and Electronics Engineering student at **BVC Engineering College** (2022–2026), passionate about automation, AI-powered solutions, and modern web development.
+I’m an Electrical and Electronics Engineering student at **BVC Engineering College** (2022–2026), passionate about automation, AI-powered solutions, and modern web development.I am committed to excellence in everything I do. Beyond academics, I indulge in dancing, drawing, and photography, which add a touch of artistry to my technical pursuits. Join me as I continue to explore, learn, and innovate in the world of technology.
 
 - 🔥 Focus Areas: RPA, AI Automation, Full Stack Development  
 - 🤝 Open to: Internships, mentorship, and collaboration
